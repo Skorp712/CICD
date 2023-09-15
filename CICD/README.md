@@ -1,0 +1,8 @@
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/1.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/1-2.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/1-3.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/2-1.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/2-2.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/2-3.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/3-1.png)
+![alt text](https://github.com/Skorp712/CICD/blob/main/path/3-2.png)
