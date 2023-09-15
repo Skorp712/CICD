@@ -7,7 +7,7 @@
 Создайте в jenkins Freestyle Project, подключите получившийся репозиторий к нему и произведите запуск тестов и сборку проекта go test . и docker build ..
 В качестве ответа пришлите скриншоты с настройками проекта и результатами выполнения сборки.
 
-ocker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER
+docker build . -t ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER
 docker login ubuntu-bionic:8082 -u admin -p admin && docker push ubuntu-bionic:8082/hello-world:v$BUILD_NUMBER && docker logout
 
 ![alt text](https://github.com/Skorp712/CICD/blob/master/CICD/1.png)
